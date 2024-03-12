@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stock-Price-Search-App-1.0/static/css/main.5d80e029.css",
+    "main.js": "/Stock-Price-Search-App-1.0/static/js/main.0e80f728.js",
+    "static/js/453.7e97d9a0.chunk.js": "/Stock-Price-Search-App-1.0/static/js/453.7e97d9a0.chunk.js",
+    "index.html": "/Stock-Price-Search-App-1.0/index.html",
+    "main.5d80e029.css.map": "/Stock-Price-Search-App-1.0/static/css/main.5d80e029.css.map",
+    "main.0e80f728.js.map": "/Stock-Price-Search-App-1.0/static/js/main.0e80f728.js.map",
+    "453.7e97d9a0.chunk.js.map": "/Stock-Price-Search-App-1.0/static/js/453.7e97d9a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d80e029.css",
+    "static/js/main.0e80f728.js"
+  ]
+}
